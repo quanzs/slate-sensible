@@ -1,5 +1,5 @@
 {
-  "name": "slate-delete-one-line",
+  "name": "slate-delete-one-line-plus",
   "version": "0.0.7",
   "description": "Only Delete one line of Slate with cmd+delete",
   "main": "lib/slate-delete-one-line.js",
@@ -10,7 +10,7 @@
     "dist/",
     "lib/"
   ],
-  "repository": "git://github.com/zhujinxuan/slate-sensible.git",
+  "repository": "git://github.com/quanzs/slate-sensible.git",
   "author": "zhujinxuan <zhujinxuan@gmail.com>",
   "license": "MIT",
   "peerDependencies": {

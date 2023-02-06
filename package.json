@@ -6,7 +6,7 @@
   ],
   "peerDependencies": {
     "slate": "*",
-    "slate-delete-one-line": "*",
+    "slate-delete-one-line-plus": "*",
     "slate-on-select": "*",
     "slate-plain-serializer": "*",
     "slate-poor-mentions": "*",
